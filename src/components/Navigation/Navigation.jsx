@@ -1,5 +1,5 @@
-import React from 'react'
-import "./Navigation.css"
+import React from 'react';
+import './Navigation.css';
 
 const Navigation = () => {
   return (
@@ -14,7 +14,7 @@ const Navigation = () => {
         Contact
       </a>
     </nav>
-  )
-}
+  );
+};
 
-export default Navigation
+export default Navigation;
